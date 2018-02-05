@@ -6,8 +6,6 @@
   - grade 1! Elementary school na
 8
   - first time pang pang umaga
-10
-  - transition from pencil to pen :O
 13
   - highschool
 14
@@ -24,26 +22,12 @@
   - graduation
   - teaching job
 
-22
-  - enrolls in MS
-
-25
-  - graduates MS
-
 28
   - baby 1
 
 30
   - starts up company
   - baby 2
-
-32
-  - baby 3
-  - bankruptcy
-
-34
-  - baby 4
-  - company doing good
 
 40
   - company doing great
@@ -52,14 +36,11 @@
   - early retirement
 
 55
-  - in japan
-  - in korea
+  - is travelling
 
 60
   - grand kid 1
 
-64
-  - everyone graduates
 
 80
   - dead
