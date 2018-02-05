@@ -6,7 +6,7 @@ import Box from '../Box';
 class Timeline extends Component {
   state = {
     isVisible: {
-      '0': false,
+      '0': true,
       '4': false,
       '7': false,
       '13': false,

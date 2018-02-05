@@ -16,5 +16,8 @@
     "eject": "react-scripts eject",
     "deploy": "yarn build && gh-pages -d build"
   },
-  "homepage": "https://tadeolinco.github.io/hume10"
+  "homepage": "https://tadeolinco.github.io/hume10",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
 }
