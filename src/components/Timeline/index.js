@@ -34,7 +34,7 @@ class Timeline extends Component {
         age = +key;
       }
     }
-
+    if (age > 1000) age = 0;
     const selectDisplayPicture = age => {
       switch (age) {
         case 0:

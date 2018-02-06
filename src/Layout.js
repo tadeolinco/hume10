@@ -3,10 +3,10 @@ import Helmet from 'react-helmet';
 
 import Header from './components/Header';
 
-const Layout = ({ children }) => (
+const Layout = ({ children, title, handleChangeTitle }) => (
   <div>
-    <Helmet title="HUME 10 Facebook Timeline" />
-    <Header title="Facebook Timeline" />
+    <Helmet title={`HUME 10 ${title}`} />
+    <Header title={title} handleChangeTitle={handleChangeTitle} />
     <div
       style={{
         backgroundColor: '#E9EBEE',
